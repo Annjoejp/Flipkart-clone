@@ -1,6 +1,6 @@
 # 🛒 Flipkart Frontend Clone
 
-This project is a static clone of the Flipkart website frontend built using HTML and CSS3. It replicates the layout, design, and responsiveness of Flipkart's homepage and other major UI elements.
+This project is a static clone of the Flipkart website frontend built using HTML and CSS. It replicates the layout, design, and responsiveness of Flipkart's homepage and other major UI elements.
 
 
 
